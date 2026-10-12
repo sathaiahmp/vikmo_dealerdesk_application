@@ -786,9 +786,7 @@ See `DECISIONS.md` for the assignment-specific decision questions and supporting
 
 ## 18. Video Walkthrough
 
-**Status:** To be added after recording.
-
-Add the actual walkthrough URL here when it is ready. Do not publish a placeholder or invented link.
+[Code Review Video](https://drive.google.com/file/d/1cKQyQ7ZH40GRDb5UQfCAXfZZRxuH1JMr/view?usp=sharing)
 
 ## 19. Live Application
 
